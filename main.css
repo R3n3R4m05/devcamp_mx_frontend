@@ -1,0 +1,42 @@
+section{
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+#Hero{
+  background: white;
+}
+
+#Hero .button{
+  background: grey;
+  border-radius: 13px;
+  padding: 10px;
+  color: white;
+  text-align: center;
+  width:177px;
+  display:inline-block;
+  overflow: auto;
+  white-space: nowrap;
+  margin:0px auto;
+}
+
+.more{
+  border-radius: 13px;
+  background: gray;
+  color: white;
+  display: block;
+  margin: 0 auto;
+  flex: 50%;
+}
+
+.image{
+  display: block;
+  margin: 0 auto;
+}
+
+#Hero .herotext{
+  text-align: center;
+}
+
+.topbar{
+  margin-bottom: 30px;
+}
