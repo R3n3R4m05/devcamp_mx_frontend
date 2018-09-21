@@ -31,3 +31,15 @@ body{
   border-radius: 13px;
   box-shadow: none;
 }
+
+.bold{
+  font-weight: bold;
+}
+
+.cursiva{
+  font-style: italic;
+}
+
+.underline{
+  text-decoration: underline;
+}
