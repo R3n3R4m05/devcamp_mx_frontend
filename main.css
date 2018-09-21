@@ -4,6 +4,7 @@ section{
 }
 #Hero{
   background: white;
+  height: 100vh;
 }
 
 #Hero .button{

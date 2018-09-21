@@ -1,0 +1,27 @@
+body{
+  background: lightgray;
+}
+
+.header{
+  color: darkorange;
+}
+
+.p1{
+  color: lightcoral;
+}
+
+.p2{
+  color: darkcyan;
+}
+
+.image{
+  width: 30vw;
+  margin: 10px 10px 10px 10px;
+}
+
+.button{
+  background: lightcoral;
+  color: black;
+  border-radius: 13px;
+  box-shadow: none;
+}
