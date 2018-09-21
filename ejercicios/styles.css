@@ -43,3 +43,7 @@ body{
 .underline{
   text-decoration: underline;
 }
+
+.table{
+  border: 2px solid black;
+}
