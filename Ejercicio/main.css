@@ -1,0 +1,38 @@
+body{
+  margin: 0px;
+}
+
+.square{
+  width: 200px;
+  height: 200px;
+}
+
+.blue{
+  background: rgb(82, 189, 224);
+  position: absolute;
+  left: 50%;
+  bottom: -50%
+}
+
+.red{
+  background: rgb(204, 74, 74);
+  position: relative;
+}
+
+.button{
+  background: #ffcb20;
+  padding: 10px 30px;
+  border-radius: 20px;
+}
+
+.container{
+  width: 100%;
+  height: 500px;
+  background: lightcyan;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.button-container{
+}
